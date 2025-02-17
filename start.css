@@ -1,0 +1,46 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background: radial-gradient(circle, #D1D5DB, #1E293B);
+    
+}
+
+.background{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.btn{
+    font-size: 50px;
+    border-radius: 10%;
+    margin-bottom: 100%;
+    font-family: 'Papyrus', 'Cinzel', serif;
+    color: gold;
+    text-shadow: 2px 2px 5px #000;
+    background-color: #008080;
+    border:1px solid #008080;
+}
+.imgcharacter{
+    margin:0;
+    display:flex;
+    justify-content: flex-end;
+}
+.textFirstPage{
+    margin:0;
+    /* border: 1px solid red; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    margin-left: 50px;
+    font-family: 'Papyrus', 'Cinzel', serif;
+    color: gold;
+    text-shadow: 2px 2px 5px #000;
+}
